@@ -1,2 +1,2 @@
-this file used to show that when we use git fetch, it download the modified code and placed it into remote branch. We review this code and if it is ok then merge it into master branch.
+This file used to show that when we use git fetch, it download the modified code and placed it into remote branch. We review this code and if it is ok then merge it into master branch.
 
